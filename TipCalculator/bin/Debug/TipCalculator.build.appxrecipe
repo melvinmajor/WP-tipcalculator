@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS8</Machine>
+    <WindowsUser>user</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>50ba7592-6441-4cea-86e0-dade61c7c3f7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe">
+      <PackagePath>TipCalculator.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.AdMediator81\1.0\References\CommonConfiguration\Neutral\Microsoft.AdMediator.Core.dll">
+      <PackagePath>Microsoft.AdMediator.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.AdMediator81\1.0\References\CommonConfiguration\Neutral\Microsoft.AdMediator.WindowsPhone81.dll">
+      <PackagePath>Microsoft.AdMediator.WindowsPhone81.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\packages\Microsoft.AdMediator.WindowsPhone81.AdDuplex.1.0.10\lib\wpa\Microsoft.AdMediator.WindowsPhone81.AdDuplex.dll">
+      <PackagePath>Microsoft.AdMediator.WindowsPhone81.AdDuplex.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\packages\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.1.0.11\lib\wpa\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll">
+      <PackagePath>Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Common.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Common.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Display.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Display.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\packages\AdDuplexWinPhone81.8.5.0.5\lib\portable-win81+wpa81\AdDuplex.Universal.Controls.WinPhone.XAML.winmd">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\packages\AdDuplexWinPhone81.8.5.0.5\lib\portable-win81+wpa81\AdDuplex.Universal.WinPhone.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.WinPhone.WinRT.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.AdMediator81\1.0\Redist\CommonConfiguration\Neutral\Microsoft.AdMediator.WindowsPhone81\Themes\Generic.xbf">
+      <PackagePath>Microsoft.AdMediator.WindowsPhone81\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.AdMediator81\1.0\Redist\CommonConfiguration\Neutral\Microsoft.AdMediator.WindowsPhone81.xr.xml">
+      <PackagePath>Microsoft.AdMediator.WindowsPhone81.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\Ormma.js">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\AdMediator.config">
+      <PackagePath>AdMediator.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\bin\Debug\TipCalculator.xr.xml">
+      <PackagePath>TipCalculator.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\packages\AdDuplexWinPhone81.8.5.0.5\lib\portable-win81+wpa81\AdDuplex.Universal.Controls.WinPhone.XAML\AdDuplex.Universal.Controls.WinPhone.XAML.xr.xml">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML\AdDuplex.Universal.Controls.WinPhone.XAML.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\packages\AdDuplexWinPhone81.8.5.0.5\lib\portable-win81+wpa81\AdDuplex.Universal.Controls.WinPhone.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

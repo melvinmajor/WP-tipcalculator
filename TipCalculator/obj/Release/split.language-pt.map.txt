@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pt"
+"ResourceDimensions"		"language-pt-pt"
+"ResourceDimensions"		"language-pt-br"
+
+[Files]
+"C:\Users\user\documents\visual studio 2013\Projects\TipCalculator\TipCalculator\obj\Release\split.language-pt.pri"			"resources.pri"

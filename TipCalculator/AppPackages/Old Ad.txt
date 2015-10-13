@@ -1,0 +1,1 @@
+            <UI:AdControl AutoRefreshIntervalInSeconds="60" ApplicationId="e441acc9-6612-4d58-9209-6e9afbd70df8" AdUnitId="194720" HorizontalAlignment="Left" Height="100" IsAutoRefreshEnabled="True" VerticalAlignment="Top" Width="400" IsAutoCollapseEnabled="True" IsBackgroundTransparent="True" Margin="-20,0"/>
