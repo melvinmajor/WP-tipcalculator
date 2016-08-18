@@ -1,3 +1,5 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/96799c68-4268-4cc5-9554-0a3b4f4ef3ff/branches/master/badge)](https://appcenter.ms)
+
 # WP-tipcalculator
 "Calculateur de pourboire" sur Windows Phone
 
