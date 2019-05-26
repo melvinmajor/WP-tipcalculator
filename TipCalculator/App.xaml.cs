@@ -15,6 +15,10 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Xaml.Navigation;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+
+AppCenter.Start("7448828a-cb21-4542-9be8-f39cf0c2a41d", typeof(Analytics));
 
 // Pour plus d'informations sur le modèle Application vide, consultez la page http://go.microsoft.com/fwlink/?LinkId=391641
 
